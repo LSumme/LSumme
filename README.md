@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LSumme
 - 👀 I’m interested in $$$
-- 🌱 I’m currently learning cs
+- 🌱 I’m currently learning computer programming
 - 💞️ I’m looking to collaborate on cs
 - 📫 How to reach me - LJSumme12@gmail.com or +1 650-350-9883
 - 😄 Pronouns: He/him/his
